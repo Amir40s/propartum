@@ -1,0 +1,183 @@
+{
+  "project_info": {
+    "project_number": "657681276345",
+    "firebase_url": "https://forpartum-620c4-default-rtdb.firebaseio.com",
+    "project_id": "forpartum-620c4",
+    "storage_bucket": "forpartum-620c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657681276345:android:2feeb86bff5704c7736a68",
+        "android_client_info": {
+          "package_name": "com.professional.propartum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657681276345-cs2otqok7ru0rrj6a77gvmnbqvifhjam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3s103dEdobEjm5ZsiC0UxE8bqbmmQK7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657681276345-0ch37aq12uifk5evs20m9l3dptdujg29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657681276345-2pl44hf320kbkppnk5klcmcosqniab5g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rehman.forpartum.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657681276345:android:2d33886ca4f4c500736a68",
+        "android_client_info": {
+          "package_name": "com.rehman.forpartum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657681276345-62hhp7g6las3k0bqa6vac6d8aa35isr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rehman.forpartum",
+            "certificate_hash": "a4eee1fd7c953113c2d3965445b9fbd557cddbd5"
+          }
+        },
+        {
+          "client_id": "657681276345-brn4b41havutdq31uv5fprsacvojn42c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rehman.forpartum",
+            "certificate_hash": "e34021fd82babe29b063e0b418231f52a0e557c7"
+          }
+        },
+        {
+          "client_id": "657681276345-cr70h3ep7omt045vuobn4itd4g5ar7ol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rehman.forpartum",
+            "certificate_hash": "65decd5262bf8fba796c9fcd3da8c8b27b7b238b"
+          }
+        },
+        {
+          "client_id": "657681276345-kjn2hn52nh4ofac62bctsldutb7i84u3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rehman.forpartum",
+            "certificate_hash": "7cf33845dd295edbddbb9dc868553e90a12c18a4"
+          }
+        },
+        {
+          "client_id": "657681276345-cs2otqok7ru0rrj6a77gvmnbqvifhjam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3s103dEdobEjm5ZsiC0UxE8bqbmmQK7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657681276345-0ch37aq12uifk5evs20m9l3dptdujg29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657681276345-2pl44hf320kbkppnk5klcmcosqniab5g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rehman.forpartum.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657681276345:android:f975cc788a59dd65736a68",
+        "android_client_info": {
+          "package_name": "com.rehman.professionalforpartum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657681276345-02hjp3je9e4jdubaq9rrd2ajhrb9kodb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rehman.professionalforpartum",
+            "certificate_hash": "f97d0b6f2bdf0dd3440067713903d86bd2cd03c8"
+          }
+        },
+        {
+          "client_id": "657681276345-6k8rg4a7cnfi7o2bhimbe8m388uf0pui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rehman.professionalforpartum",
+            "certificate_hash": "12e112ca63b93ad4afed84f11cfbcb56e8b7446d"
+          }
+        },
+        {
+          "client_id": "657681276345-ognkpspm1kdqahadfhif0us14cq3dgga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rehman.professionalforpartum",
+            "certificate_hash": "dff1e939bfa71a646e016a1bac860b0b6c42611a"
+          }
+        },
+        {
+          "client_id": "657681276345-qof67veb3pin9uej4neqbbjpr6jm7a2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rehman.professionalforpartum",
+            "certificate_hash": "a4eee1fd7c953113c2d3965445b9fbd557cddbd5"
+          }
+        },
+        {
+          "client_id": "657681276345-cs2otqok7ru0rrj6a77gvmnbqvifhjam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3s103dEdobEjm5ZsiC0UxE8bqbmmQK7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657681276345-0ch37aq12uifk5evs20m9l3dptdujg29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657681276345-2pl44hf320kbkppnk5klcmcosqniab5g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rehman.forpartum.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
