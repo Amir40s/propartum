@@ -42,6 +42,12 @@ dependencies:
   intl: ^0.18.1
   permission_handler: ^11.1.0
   smooth_page_indicator: ^1.1.0
+  firebase_auth: ^4.19.0
+  firebase_storage: ^11.7.0
+  firebase_messaging: ^14.7.9
+  flutter_local_notifications: ^17.0.0
+  shared_preferences: ^2.2.2
+  mailer: ^6.1.0
 
 dev_dependencies:
   flutter_test:

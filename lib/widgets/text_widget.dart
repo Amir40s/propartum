@@ -1,23 +1,25 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:propartum/utils/constants.dart';
 
 class TextWidget extends StatelessWidget {
   final String text;
-   Color color;
+  Color color;
   final double size;
-  bool isBold;
-  var fontFamily;
-  bool italic;
-  var textAlignment;
+  bool isBold,italic;
+  var textAlignment,fontFamily,textDecoration;
+  var underlineColor;
 
    TextWidget(
       {
     required this.text,
-     this.color = Colors.white,
+     this.color = Colors.black,
     required this.size,
     this.isBold = false,
     this.fontFamily = '',
+    this.underlineColor = Colors.grey,
     this.textAlignment = TextAlign.start,
+    this.textDecoration = TextDecoration.none,
     this.italic = false
   });
 
@@ -33,7 +35,9 @@ class TextWidget extends StatelessWidget {
         fontSize: size,
         fontWeight: isBold ? FontWeight.bold : FontWeight.normal,
         fontStyle: italic ? FontStyle.italic : FontStyle.normal,
-        fontFamily: fontFamily
+        fontFamily: fontFamily,
+        decoration: textDecoration,
+        decorationColor: underlineColor
       ),
     );
   }
